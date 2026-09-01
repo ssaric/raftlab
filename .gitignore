@@ -1,0 +1,13 @@
+node_modules/
+dist/
+*.log
+*.tsbuildinfo
+.DS_Store
+.idea/
+.vscode/
+coverage/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
