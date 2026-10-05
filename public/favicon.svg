@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- A five-server cluster, one of them the leader. -->
+  <circle cx="16" cy="6" r="4" fill="#5aa9e6" />
+  <circle cx="25.5" cy="12.9" r="3.2" fill="#8a97a8" />
+  <circle cx="21.9" cy="24.1" r="3.2" fill="#8a97a8" />
+  <circle cx="10.1" cy="24.1" r="3.2" fill="#8a97a8" />
+  <circle cx="6.5" cy="12.9" r="3.2" fill="#8a97a8" />
+</svg>
